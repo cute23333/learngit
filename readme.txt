@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
+Use colab or your local jupyter notebook to run this code.
+cv2, numpy, matplotlib, PIL required.
