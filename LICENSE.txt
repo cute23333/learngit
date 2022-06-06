@@ -1,1 +1,1 @@
-This is a LICENSE.
+This is a code written by wjy, using for converting pictures to wall-paintings.
